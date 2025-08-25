@@ -1,1 +1,2 @@
-# -ML-Ops-Production-Ready-Project
+# ML-Ops-Production-Ready-Project
+ anaconda, vs code, bash 
